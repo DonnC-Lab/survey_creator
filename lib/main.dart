@@ -43,7 +43,7 @@ class AppEntryPoint extends StatelessWidget {
             MaterialPageRoute(
               builder: (context) => Creator(
                 initialStep: InstructionStep(
-                  title: 'Welcome to \nDonnC Lab Survey',
+                  title: 'Welcome to \nDonnC Survey',
                   text: 'Get ready for some few questions!',
                   buttonText: 'Start',
                   showAppBar: false,

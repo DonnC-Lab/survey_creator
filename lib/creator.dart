@@ -13,9 +13,9 @@ class Creator extends StatefulWidget {
 
   ///
   /// ```dart
-  /// // example
+  /// 
   /// InstructionStep(
-  ///        title: 'Welcome to \nDonnC Lab Survey',
+  ///        title: 'Welcome to \nABC Survey',
   ///        text: 'Get ready to start!',
   ///        buttonText: 'Start',
   ///      ),
@@ -25,7 +25,7 @@ class Creator extends StatefulWidget {
 
   ///
   /// ```dart
-  /// // example
+  ///
   /// CompletionStep(
   ///        stepIdentifier: StepIdentifier(),
   ///        text: 'Thanks for taking the survey',
